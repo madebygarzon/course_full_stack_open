@@ -1,2 +1,3 @@
+## Hellow world
 # course_full_stack_open
-Exercises repository course Full Stack by Full Stack Open
+Repository intended for the submission of exercises for the full stack development course.
